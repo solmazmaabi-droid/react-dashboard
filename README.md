@@ -16,3 +16,4 @@ A modern React dashboard demonstrating components, hooks, API fetching, and data
 - CSS3
 
 ## ▶️ Running the Project
+https://react-dashboard-7m3u.vercel.app/
